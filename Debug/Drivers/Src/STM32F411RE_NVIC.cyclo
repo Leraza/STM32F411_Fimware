@@ -1,0 +1,3 @@
+../Drivers/Src/STM32F411RE_NVIC.c:3:6:NVIC_IRQ_Habilitar	4
+../Drivers/Src/STM32F411RE_NVIC.c:19:6:NVIC_IRQ_Deshabilitar	4
+../Drivers/Src/STM32F411RE_NVIC.c:35:6:NVIC_Prioridad	1

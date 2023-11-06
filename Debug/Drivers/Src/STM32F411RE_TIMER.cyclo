@@ -1,0 +1,8 @@
+../Drivers/Src/STM32F411RE_TIMER.c:3:6:TIM_Control_Reloj	19
+../Drivers/Src/STM32F411RE_TIMER.c:79:9:TIM_ObtenerITestatus	3
+../Drivers/Src/STM32F411RE_TIMER.c:96:6:TIM_Limpiar_Bandera_Pendiente	1
+../Drivers/Src/STM32F411RE_TIMER.c:102:6:TIM_TimeBaseIniciar	1
+../Drivers/Src/STM32F411RE_TIMER.c:110:6:TIM_Cmd	3
+../Drivers/Src/STM32F411RE_TIMER.c:123:6:TIM_ITConfiguracion	3
+../Drivers/Src/STM32F411RE_TIMER.c:135:6:TIM_IRQHandler	2
+../Drivers/Src/STM32F411RE_TIMER.c:144:28:TIM_EventCallBack	1

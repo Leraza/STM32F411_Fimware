@@ -1,0 +1,17 @@
+../Drivers/Src/STM32F411RE_RCC.c:3:6:RCC_HSEConfig	16	static
+../Drivers/Src/STM32F411RE_RCC.c:17:6:RCC_LSEConfig	16	static
+../Drivers/Src/STM32F411RE_RCC.c:37:6:RCC_PLLConfig	32	static
+../Drivers/Src/STM32F411RE_RCC.c:50:6:RCC_HSICmd	16	static
+../Drivers/Src/STM32F411RE_RCC.c:62:6:RCC_LSICmd	16	static
+../Drivers/Src/STM32F411RE_RCC.c:74:6:RCC_PLLCmd	16	static
+../Drivers/Src/STM32F411RE_RCC.c:87:6:RCC_MC01Config	24	static
+../Drivers/Src/STM32F411RE_RCC.c:106:6:RCC_WaitForCLKRDY	16	static
+../Drivers/Src/STM32F411RE_RCC.c:131:6:RCC_SYSCLKConfig	24	static
+../Drivers/Src/STM32F411RE_RCC.c:145:21:RCC_GetSYSCLKSource	16	static
+../Drivers/Src/STM32F411RE_RCC.c:156:6:RCC_AHBCLKConfig	24	static
+../Drivers/Src/STM32F411RE_RCC.c:169:6:RCC_APB1CLKConfig	24	static
+../Drivers/Src/STM32F411RE_RCC.c:182:6:RCC_APB2CLKConfig	24	static
+../Drivers/Src/STM32F411RE_RCC.c:197:10:RCC_GetSYSCLK	40	static
+../Drivers/Src/STM32F411RE_RCC.c:255:10:RCC_GetAHBCLK	16	static
+../Drivers/Src/STM32F411RE_RCC.c:266:10:RCC_GetAPB1CLK	16	static
+../Drivers/Src/STM32F411RE_RCC.c:277:10:RCC_GetAPB2CLK	16	static
